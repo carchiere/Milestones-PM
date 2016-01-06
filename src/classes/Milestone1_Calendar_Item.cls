@@ -36,6 +36,7 @@ public with sharing class Milestone1_Calendar_Item
     public static final String PROJECT_TYPE = 'PROJECT_TYPE';
     public static final String MILESTONE_TYPE = 'MILESTONE_TYPE';
     public static final String TASK_TYPE = 'TASK_TYPE';
+    public static final String TASK_VALUE = 'TASK_VALUE';
     
     public Milestone1_Calendar_Item(String theId, String theName, Date inputDate, String inType)
     {
